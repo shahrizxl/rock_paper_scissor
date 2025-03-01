@@ -1,9 +1,0 @@
-Player Choice,Computer Choice,Result
-Rock,Scissors,Player Wins
-Paper,Rock,Player Wins
-Scissors,Paper,Player Wins
-Scissors,Rock,Computer Wins
-Paper,Scissors,Computer Wins
-Paper,Paper,Draw
-Rock,Paper,Computer Wins
-Rock,Scissors,Player Wins
